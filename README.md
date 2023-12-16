@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ysktn
+- 👋 Hi, I’m yassin
 - 👀 I’m interested in Developpement , IA and cybersecurity
 - 🌱 I’m currently learning C, IA, cybersecurity and Swift
 - 💞️ I’m looking to collaborate on ...
